@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Block backend / internal routes (adjust if needed)
+Disallow: /api/
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /private/
+
+# Block system folders (only if they exist)
+Disallow: /cgi-bin/
+
+# Sitemap
+Sitemap: https://www.analystcodehub.com/sitemap.xml
+

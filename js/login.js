@@ -16,7 +16,7 @@ form.addEventListener('submit', async (e) => {
   try {
     msg.textContent = 'Signing in...';
     await signInWithEmailAndPassword(auth, email, password);
-    window.location.href = 'dashboard.html';
+    window.location.href = 'protected.html';
   } catch (err) {
     msg.textContent = err.message || 'Sign-in failed.';
   }
@@ -27,7 +27,7 @@ if (googleBtn) {
     msg.textContent = 'Opening Google sign-in...';
     try {
       await signInWithPopup(auth, googleProvider);
-      window.location.href = 'dashboard.html';
+      window.location.href = 'protected.html';
     } catch (err) {
       msg.textContent = err.message || 'Google sign-in failed.';
     }
