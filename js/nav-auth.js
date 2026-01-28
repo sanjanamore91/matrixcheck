@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const name = user.displayName || (user.email ? user.email.split('@')[0] : 'User');
       if (navLogin) {
         navLogin.textContent = name;
-        navLogin.href = 'dashboard.html';
+        navLogin.href = 'protected.html';
       }
       if (authLi) authLi.classList.add('signed-in');
     } else {
