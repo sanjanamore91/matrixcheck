@@ -4,59 +4,87 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+<!-- Sitemap for Analyst Code Hub - Last Updated: January 29, 2026 -->
 
 <url>
   <loc>https://analystcodehub.com/</loc>
-  <lastmod>2026-01-18T10:37:44+00:00</lastmod>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://analystcodehub.com/mentors</loc>
-  <lastmod>2026-01-18T10:37:44+00:00</lastmod>
+  <loc>https://analystcodehub.com/mentors.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://analystcodehub.com/pricing.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
+<url>
+  <loc>https://analystcodehub.com/becomementors.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
+<url>
+  <loc>https://analystcodehub.com/contact.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://analystcodehub.com/pricing</loc>
-  <lastmod>2026-01-18T10:37:44+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://analystcodehub.com/login.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.75</priority>
 </url>
 <url>
-  <loc>https://analystcodehub.com/becomementors</loc>
-  <lastmod>2026-01-18T10:37:44+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://analystcodehub.com/signup.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.75</priority>
 </url>
 <url>
-  <loc>https://analystcodehub.com/contact</loc>
-  <lastmod>2026-01-18T10:37:44+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://analystcodehub.com/dashboard.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://analystcodehub.com/login</loc>
-  <lastmod>2026-01-18T10:37:44+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://analystcodehub.com/hadoopprojectusingspark.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
-  <loc>https://analystcodehub.com/resources.html</loc>
-  <lastmod>2026-01-18T10:37:44+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://analystcodehub.com/searchmentor.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://analystcodehub.com/signup-user.html</loc>
-  <lastmod>2026-01-18T10:37:44+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://analystcodehub.com/protected.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.65</priority>
 </url>
 <url>
-  <loc>https://analystcodehub.com/signup</loc>
-  <lastmod>2026-01-18T10:37:44+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://analystcodehub.com/terms-and-conditions.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.60</priority>
 </url>
 <url>
-  <loc>https://analystcodehub.com/dashboard</loc>
-  <lastmod>2026-01-18T10:37:44+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://analystcodehub.com/privacy-policy.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.60</priority>
 </url>
-
+<url>
+  <loc>https://analystcodehub.com/return-refund-policy.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://analystcodehub.com/cancellation-policy.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://analystcodehub.com/shipping-policy.html</loc>
+  <lastmod>2026-01-29T10:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
 
 </urlset>

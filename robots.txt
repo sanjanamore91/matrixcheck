@@ -4,12 +4,24 @@ Allow: /
 # Block backend / internal routes (adjust if needed)
 Disallow: /api/
 Disallow: /admin/
-Disallow: /dashboard/
 Disallow: /private/
 
-# Block system folders (only if they exist)
-Disallow: /cgi-bin/
+# Allow public pages
+Allow: /index.html
+Allow: /mentors.html
+Allow: /pricing.html
+Allow: /becomementors.html
+Allow: /contact.html
+Allow: /hadoopprojectusingspark.html
+Allow: /terms-and-conditions.html
+Allow: /privacy-policy.html
+Allow: /return-refund-policy.html
+Allow: /cancellation-policy.html
+Allow: /shipping-policy.html
 
 # Sitemap
-Sitemap: https://www.analystcodehub.com/sitemap.xml
+Sitemap: https://analystcodehub.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
 
